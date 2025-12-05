@@ -1,0 +1,36 @@
+{
+    "size": {
+        "width": 1280,
+        "height": 720
+    },
+    "dice_sets": [
+        {
+            "name": "Water",
+            "color": "blue"
+        },
+        {
+            "name": "Swamps",
+            "color": "brown"
+        },
+        {
+            "name": "Bad Lands",
+            "color": "orange"
+        },
+        {
+            "name": "Forest",
+            "color": "green"
+        },
+        {
+            "name": "Mountains",
+            "color": "silver"
+        },
+        {
+            "name": "Towns",
+            "color": "magenta"
+        },
+        {
+            "name": "Special Location",
+            "color": "gold"
+        }
+    ]
+}
